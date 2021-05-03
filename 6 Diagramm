@@ -1,4 +1,0 @@
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-df.Body_type.hist(xrot=90);
